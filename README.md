@@ -1,12 +1,12 @@
 ### Hi there, I am Jai Batra
 
 
-## I am a student with a passion for Data science/Cybersecurity. I love to create unique solutions through code and different technologies.
+## I am a student with a passion for Data science/Cybersecurity. I thrive on creating innovative solutions through coding and exploring the potential of new technologies.
 
 - I’m interested in Data science and Cybersecurity
 - I’m currently learning C, C++, and Python
 - I’m eager to learn something new and work through different environments
-- Fun fact: Love to game and find new ways to figure out certain scenarios
+- Fun fact: I’m a gaming enthusiast who loves strategizing and solving complex scenarios!
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
