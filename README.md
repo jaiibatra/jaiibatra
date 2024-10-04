@@ -19,8 +19,9 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
-### :zap: GitHub Stats
-<img align="left" alt="Jai GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sjaiibatra&show_icons=true&hide_border=true" />
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=jaiibatra&show_icons=true&theme=radical">
+</p>
 
 
 <!---
