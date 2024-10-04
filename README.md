@@ -19,8 +19,8 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=jaiibatra&show_icons=true&theme=radical">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiibatra&show_icons=true&theme=radical">
 </p>
 
 
