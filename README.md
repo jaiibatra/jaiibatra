@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://github.com/jaiibatra/jaiibatra/blob/main/welcome-black-min.gif" alt="Welcome">
+<h2 align="center">Hello there! My name is Jai Batra. 👋🤓</h2>
 
 
 ## Ever since I started learning programming, I’ve been fascinated by how technology can solve complex problems. This passion has guided my studies at the University of Illinois Chicago, where I’ve focused on Computer Science with interest in Data Science and Cybersecurity. I thrive on creating innovative solutions through coding and exploring the potential of new technologies. 
