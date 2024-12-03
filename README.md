@@ -3,7 +3,7 @@
 
 ## Ever since I started learning programming, I’ve been fascinated by how technology can solve complex problems. This passion has guided my studies at the University of Illinois Chicago, where I’ve focused on Computer Science with interest in Data Science and Cybersecurity. I thrive on creating innovative solutions through coding and exploring the potential of new technologies. 
 
-- I’m interested in Data science and Cybersecurity
+- I’m interested in Data science
 - I’m currently learning C, C++, and Python
 - I’m eager to learn something new and work through different environments
 - Fun fact: I’m a gaming enthusiast who loves strategizing and solving complex scenarios!
