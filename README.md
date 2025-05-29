@@ -14,8 +14,7 @@ Ever since I began programming, I’ve been captivated by how technology can sim
 
 ---
 
-### 🛠️ Languages & Tools
-
+### 🛠️ Languages and Tools:
 
 <a href="https://www.python.org" target="_blank">
   <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />
@@ -43,19 +42,16 @@ Ever since I began programming, I’ve been captivated by how technology can sim
 <br />
 <br />
 
-### Database Management:
+### 🗄️ Database Management:
 
 <a href="https://www.mongodb.com/" target="_blank">
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </a>
-<a href="https://www.w3schools.com/sql/" target="_blank">
-  <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</a>
 
 <br />
 <br />
 
-### Softwares:
+### 💻 Softwares:
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
