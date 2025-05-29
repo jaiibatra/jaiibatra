@@ -42,15 +42,6 @@ Ever since I began programming, I’ve been captivated by how technology can sim
 <br />
 <br />
 
-### 🗄️ Database Management:
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</a>
-
-<br />
-<br />
-
 ### 💻 Softwares:
 
 <a href="https://code.visualstudio.com/" target="_blank">
