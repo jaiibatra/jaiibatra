@@ -1,27 +1,45 @@
-<h2 align="center">Hello there! My name is Jai Batra. 👋</h2>
+<h2 align="center">Hey there! My name is Jai Batra. 👋</h2>
+<h3 align="center">CS Student | Aspiring Data Scientist | Cybersecurity Enthusiast</h3>
 
 
-## Ever since I started learning programming, I’ve been fascinated by how technology can solve complex problems. This passion has guided my studies at the University of Illinois Chicago, where I’ve focused on Computer Science with interest in Data Science and Cybersecurity. I thrive on creating innovative solutions through coding and exploring the potential of new technologies. 
+### 🚀 About Me
 
-- I’m interested in Data Science/Data Analytics
-- Currently sharpening my Python, SQL, R skills
-- Always exploring new tech, tools and frameworks
-- I’m eager to learn something new and work through different environments
-- Fun fact: I’m a gaming enthusiast who loves strategizing and solving complex scenarios!
+Ever since I began programming, I’ve been captivated by how technology can simplify complex problems and unlock new possibilities. This curiosity led me to pursue a degree in **Computer Science** at the **University of Illinois Chicago**, where I focus on **Data Science**, **Analytics**, and **Cybersecurity**.
 
-## 🛠️ Languages and Tools
+- 📊 Fascinated by the power of **data** to drive decisions and insights  
+- 🧠 Actively honing skills in **Python**, **SQL**, and **R**  
+- 🔧 Always exploring new **tools**, **technologies**, and **frameworks**  
+- 💡 Driven by a passion to learn, solve problems, and build meaningful solutions  
+- 🎮 Gaming enthusiast who enjoys strategizing and breaking down complex challenges
 
-| **Category**          | **Technologies**                                             |
-|-----------------------|--------------------------------------------------------------|
-| **Programming**       | ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) |
-| **Editors/IDEs**      | ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) |
-| **Tools & Platforms** | ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a) |
+---
 
+### 🛠️ Languages & Tools
 
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiibatra&show_icons=true&theme=radical">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiibatra&show_icons=true&theme=radical" alt="jaiibatra stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiibatra&layout=compact&theme=radical" alt="top langs"/>
+</p>
+
+
 
 
 <!---
