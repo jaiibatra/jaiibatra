@@ -16,6 +16,7 @@ Ever since I began programming, I’ve been captivated by how technology can sim
 
 ### 🛠️ Languages & Tools
 
+
 <a href="https://www.python.org" target="_blank">
   <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />
 </a>
@@ -38,6 +39,19 @@ Ever since I began programming, I’ve been captivated by how technology can sim
   <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+
+<br />
+<br />
+
+### Database Management:
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</a>
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
+
 <br />
 <br />
 
