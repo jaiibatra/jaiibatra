@@ -1,10 +1,6 @@
 <h2 align="center">Hey there! My name is Jai Batra. 👋</h2>
-<h3 align="center">CS Student | Aspiring Data Scientist | Cybersecurity Enthusiast</h3>
+<h3 align="center">CS Graduate (UIC) | Data Science / Data Engineering
 
-
-### 🚀 About Me
-
-Ever since I began programming, I’ve been captivated by how technology can simplify complex problems and unlock new possibilities. This curiosity led me to pursue a degree in **Computer Science** at the **University of Illinois Chicago**, where I focus on **Data Science**, **Analytics**, and **Cybersecurity**.
 
 - 📊 Fascinated by the power of **data** to drive decisions and insights  
 - 🧠 Actively honing skills in **Python**, **SQL**, and **R**  
