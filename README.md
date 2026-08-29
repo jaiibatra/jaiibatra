@@ -3,7 +3,7 @@
 
 
 - 📊 Fascinated by the power of **data** to drive decisions and insights  
-- 🧠 Actively honing skills in **Python**, **SQL**, and **R**  
+- 🧠 Actively honing skills in **Python**, and **SQL**
 - 🔧 Always exploring new **tools**, **technologies**, and **frameworks**  
 - 💡 Driven by a passion to learn, solve problems, and build meaningful solutions  
 - 🎮 Gaming enthusiast who enjoys strategizing and breaking down complex challenges
