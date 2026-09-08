@@ -66,13 +66,7 @@
 <br />
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiibatra&show_icons=true&theme=radical" alt="jaiibatra stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiibatra&layout=compact&theme=radical" alt="top langs"/>
-</p>
+# LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ja1B)
 
