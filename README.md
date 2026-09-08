@@ -74,6 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiibatra&layout=compact&theme=radical" alt="top langs"/>
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ja1B)
 
 
 
